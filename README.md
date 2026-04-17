@@ -20,7 +20,12 @@ https://mednovademo.netlify.app
 - JavaScript
 
 ## 📸 Preview
-(Add screenshots here)
+<p align="center">
+  <img src="assets/images/Screenshot 2026-04-17 194512.png" width="45%" />
+  <img src="assets/images/Screenshot 2026-04-17 200157.png" width="45%" />
+  <img src="assets/images/Screenshot 2026-04-17 200210.png" width="45%" />
+  <img src="assets/images/Screenshot 2026-04-17 200219.png" width="45%" />
+</p>
 
 ## 📌 Status
 Completed
